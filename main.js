@@ -35,11 +35,6 @@ toggleMenu.addEventListener("click", function(){
 })
 
 
-// for (let i = 0; i < card.length ; i++ ){
-//   card[i].addEventListener("click", function () {
-//     card[i].classList.toggle('is-flipped');
-//   });
-// }
 
 
 VanillaTilt.init(document.querySelectorAll(".card"), {
